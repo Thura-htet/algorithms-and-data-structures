@@ -60,5 +60,5 @@ def letterCombinations(digits: str) -> list[str]:
 
 
 if __name__== "__main__":
-    result = letterCombinations("23")
+    result = letterCombinations("237")
     print(result)
